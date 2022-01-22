@@ -1,16 +1,13 @@
 # CarpetPlugin
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/32e8b01100ad420b92f0fb704fd02eba)](https://app.codacy.com/gh/ishlandbukkit/CarpetPlugin?utm_source=github.com&utm_medium=referral&utm_content=ishlandbukkit/CarpetPlugin&utm_campaign=Badge_Grade_Settings)
-
 Carpets can also be made of Paper!  
-A bukkit plugin aims to implement as many features as [fabric-carpet](https://github.com/gnembon/fabric-carpet) does.  
-This is the [Paper](http://papermc.io/) version of Carpet Mod, for Minecraft 1.16.4.  
+A bukkit plugin aims to implement '/player' feature as [fabric-carpet](https://github.com/gnembon/fabric-carpet) does.  
+This is the [Paper](http://papermc.io/) version of Carpet Mod, for 1.16.5.
 For original version check [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet)  
 
 ## Compatibility
-Currently, it is only compatible with `v1_16_R3` (1.16.4) with Paper or its fork
 
-Backward and forward support is extremely difficult, and I won't do that.
+Is a WIP.
 
 ## Implemented features
 - /player ... spawn (carpet.player.spawn) (carpet.player.spawn.whitelist)

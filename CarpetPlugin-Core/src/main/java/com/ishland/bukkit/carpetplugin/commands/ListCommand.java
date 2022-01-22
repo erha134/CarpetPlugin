@@ -51,7 +51,7 @@ public class ListCommand {
                     throwable.printStackTrace();
                 }
                 try {
-                    String disconnectMessage = playerList.disconnect(player);
+                    String disconnectMessage = playerList.disconnect(player).toString();
                     if(disconnectMessage != null && disconnectMessage.length() > 0)
                         playerList.sendMessage(CraftChatMessage.fromString(disconnectMessage));
                 } catch (Throwable throwable) {
